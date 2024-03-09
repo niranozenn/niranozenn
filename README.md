@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Web development.**
 
-- 🌱 I’m currently learning **JS, vue.js**
+- 🌱 I’m currently learning **vue.js, Data Science**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, JS, Kotlin, C **
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/niranozen/" rel="nofollow" target="blank">LinkedIn</a>**
  
