@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue.js, Data Science**
 
-- 💬 Ask me about **Python, JS, Kotlin, C, ++ **
+- 💬 Ask me about **Python, JS, Kotlin, C, C++ **
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/niranozen/" rel="nofollow" target="blank">LinkedIn</a>**
  
